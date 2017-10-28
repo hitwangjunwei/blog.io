@@ -80,7 +80,7 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 ![](http://openmindclub.qiniudn.com/omt/BuildBlog019.jpg)
 - 点击fork
 - 点击setting，修改Repository name，格式是格式是：用户名.github.io
-###  在浏览器中搜索“用户名.github.io”即可看到自己的博客
+### 在浏览器中搜索“用户名.github.io”即可看到自己的博客
 
 
 
